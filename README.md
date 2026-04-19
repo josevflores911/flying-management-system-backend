@@ -154,3 +154,15 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento.
+
+## Backend Preview
+admin
+password123
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/2bffa5d6-2247-4518-901d-ff3db9f824ae" 
+    alt="Backend preview" 
+    width="900"
+  />
+</p>
